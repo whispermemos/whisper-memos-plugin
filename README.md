@@ -26,6 +26,8 @@ It cannot record, create or edit memos.
 You need an existing Whisper Memos account. The plugin only accesses memos in the account
 you connect.
 
+Reviewing this plugin? Email hello@whispermemos.com for a demo account.
+
 ## How it works
 
 The plugin holds no code. It points at the Whisper Memos MCP server,
