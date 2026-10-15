@@ -1,0 +1,18 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "com.whispermemos/whisper-memos",
+  "title": "Whisper Memos",
+  "description": "Read, summarize and act on the voice memos you record with Whisper Memos.",
+  "version": "1.0.0",
+  "websiteUrl": "https://whispermemos.com",
+  "repository": {
+    "url": "https://github.com/whispermemos/whisper-memos-plugin",
+    "source": "github"
+  },
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://whispermemos.com/mcp"
+    }
+  ]
+}
